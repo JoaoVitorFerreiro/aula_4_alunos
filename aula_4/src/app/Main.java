@@ -1,6 +1,5 @@
 package app;
 
-import java.text.ParseException;
 
 import model.Banco;
 import model.Usuario;
